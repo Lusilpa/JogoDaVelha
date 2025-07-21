@@ -28,7 +28,7 @@ Este repositório contém uma implementação simples e funcional do clássico *
   - Condições (`if-else`, operador ternário)
   - Modularização com funções (`void`, `int`, `char`)
 
-### ☕ Versão em Java *(em desenvolvimento ou já incluída)*
+### ☕ Versão em Java *(em desenvolvimento)*
 
 - Linguagem: Java
 - Organização em métodos
